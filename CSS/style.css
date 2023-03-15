@@ -365,7 +365,7 @@ body
       .allmainf{
       
         /* justify-content: space-between; */
-        margin-left: 3rem;
+        /* margin-left: .1rem; */
         display: flex;
         gap: 400px;
       }
@@ -404,7 +404,7 @@ body
       center{
         color:white
       }
-      .cont{
+      .contes{
         display:flex;
         flex-direction: column;
         gap:40px
