@@ -407,6 +407,8 @@ body
       .contes{
         display:flex;
         flex-direction: column;
+        /* background-color: #01CC32; */
+        margin-left: -70px;
         gap:40px
       }
 
@@ -671,5 +673,13 @@ body
       /* flex-direction:column; */
       gap:120px;
       margin-left: 3rem;
+    }
+    .contes{
+      display:flex;
+      flex-direction: column;
+      /* background-color: #01CC32; */
+      margin-left: 1rem;
+      /* margin-left: 0px; */
+      gap:40px
     }
     }
